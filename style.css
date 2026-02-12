@@ -1,0 +1,88 @@
+.headline {
+    font-weight: 1000;
+}
+
+.navbar {
+    background-color: #204b7a;
+}
+
+.services h3 {
+    font-size: 2.5rem;
+    padding-top: 0.8rem;
+}
+.services svg { margin-right: 1rem;}
+.serviceAreas svg { margin-right: 0.5rem;}
+
+.serviceLinks h2 {font-size: 1.8rem; display: none;}
+
+.topImages {
+    width: 100%;
+    height: auto;
+    border-radius: 0.5rem;
+    /* box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); */
+}
+
+.serviceLable {
+    text-align: center;
+    font-size: 1.2rem;
+    font-weight: 500;
+    margin-top: 0.5rem;
+}
+
+.topSection ul { list-style: none;}
+.topTicks { padding: 0.5rem; color:#003366;}
+.serviceIcons { color: #003366;}
+
+.serviceAreas { color:white; background-color: #003366;}
+.serviceAreas ul { list-style: none; padding-left: 0;}
+
+.airconImage {
+    background-image: url('img/repair-720-550.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    min-height: 300px;
+}
+
+.commercialImage {
+    background-image: url('img/commercial-fridges.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    min-height: 300px;
+}
+
+.customSolutionsImage {
+    background-image: url('img/tools-864983_1920.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    min-height: 300px;
+}
+
+.airconGoulburnImage {
+    background-image: url('img/air-conditioning-3.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    min-height: 300px;
+}
+
+.hero {
+    /*   */
+    background-image: url('img/header-background-original-scaled.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    min-height: 300px;
+    padding:8rem 0;
+}
+
+.footerBottom {
+    background-color: #204b7a;
+    font-size: 0.8rem;
+}
+.footerContainer {
+    background-color: #161616;
+}
+.footerContainer ul { list-style: none; padding-left: 0;}
